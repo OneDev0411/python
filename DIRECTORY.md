@@ -126,6 +126,7 @@
   * [Decimal To Binary Recursion](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_binary_recursion.py)
   * [Decimal To Hexadecimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_hexadecimal.py)
   * [Decimal To Octal](https://github.com/TheAlgorithms/Python/blob/master/conversions/decimal_to_octal.py)
+  * [Excel Title To Column](https://github.com/TheAlgorithms/Python/blob/master/conversions/excel_title_to_column.py)
   * [Hex To Bin](https://github.com/TheAlgorithms/Python/blob/master/conversions/hex_to_bin.py)
   * [Hexadecimal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/hexadecimal_to_decimal.py)
   * [Length Conversion](https://github.com/TheAlgorithms/Python/blob/master/conversions/length_conversion.py)
@@ -560,6 +561,7 @@
   * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/Python/blob/master/maths/sieve_of_eratosthenes.py)
   * [Sigmoid](https://github.com/TheAlgorithms/Python/blob/master/maths/sigmoid.py)
   * [Simpson Rule](https://github.com/TheAlgorithms/Python/blob/master/maths/simpson_rule.py)
+  * [Sin](https://github.com/TheAlgorithms/Python/blob/master/maths/sin.py)
   * [Sock Merchant](https://github.com/TheAlgorithms/Python/blob/master/maths/sock_merchant.py)
   * [Softmax](https://github.com/TheAlgorithms/Python/blob/master/maths/softmax.py)
   * [Square Root](https://github.com/TheAlgorithms/Python/blob/master/maths/square_root.py)
@@ -623,6 +625,7 @@
 
 ## Physics
   * [Horizontal Projectile Motion](https://github.com/TheAlgorithms/Python/blob/master/physics/horizontal_projectile_motion.py)
+  * [Lorenz Transformation Four Vector](https://github.com/TheAlgorithms/Python/blob/master/physics/lorenz_transformation_four_vector.py)
   * [N Body Simulation](https://github.com/TheAlgorithms/Python/blob/master/physics/n_body_simulation.py)
   * [Newtons Second Law Of Motion](https://github.com/TheAlgorithms/Python/blob/master/physics/newtons_second_law_of_motion.py)
 
